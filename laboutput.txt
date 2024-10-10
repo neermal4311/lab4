@@ -102,6 +102,6 @@ test_e_function_is_digits (__main__.lab4e.test_e_function_is_digits)
 [Lab 4] - [Investigation 2] - [Part 2] - Functions - is_digits("8503") has correct output ... ok
 
 ----------------------------------------------------------------------
-Ran 51 tests in 0.073s
+Ran 51 tests in 0.074s
 
 OK
